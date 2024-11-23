@@ -52,3 +52,5 @@ Foram identificados outliers, assimetria, dispersão, e se a distribuição dos 
 
 
 O "p-valor de 1.571" indica que a hipótese nula (de que os dados seguem uma distribuição normal) pode ser rejeitada com um alto nível de confiança. Isso reforça a conclusão de que os retornos diários da Tesla não seguem uma distribuição normal e que há uma presença significativa de outliers.
+
+Update 231124
